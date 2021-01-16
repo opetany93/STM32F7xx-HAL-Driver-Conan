@@ -1,6 +1,5 @@
 from conans import ConanFile, CMake
 
-
 class STM32F7xxHALDriverConan(ConanFile):
     name = "STM32F7xx_HAL_Driver"
     version = "1.2.8"
